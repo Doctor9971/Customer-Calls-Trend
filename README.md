@@ -10,7 +10,6 @@ The analysis includes the following key aspects:
 
 2. Call Duration by Hour: This analysis explores the distribution of call duration throughout the day. It identifies the peak hours when most customer calls occur and helps in optimizing staffing and resources accordingly.
 
-3. Customer Calls Trends by Category: This analysis categorizes customer calls based on specific criteria such as call types, reasons, or customer segments. It provides insights into the most common issues or concerns faced by customers.
 
 ## Analysis Report
 
