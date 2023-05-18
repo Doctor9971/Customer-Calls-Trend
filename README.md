@@ -27,7 +27,7 @@ The repository is structured as follows:
 
 - The data folder contains the original dataset used for the analysis.
 - The charts folder includes Excel files with charts and visualizations for each aspect of the analysis.
-- The reports folder contains detailed reports for each analysis aspect, providing in-depth insights and interpretations.
+- The reports & future suggestions folder contains detailed reports for each analysis aspect, providing in-depth insights and interpretations.
 - The README.md file (this file) provides an overview of the project, analysis, and repository structure.
 
 ## Getting Started
